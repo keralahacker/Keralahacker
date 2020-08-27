@@ -1,11 +1,11 @@
 # Keralahacker-
 <h1 align="center">Hi, I'm <a href="https://www.instagram.com/hack_with_vyshu">Vyshu</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ ⚙️💻⚙️</h1> 
+<h1 align="center">Welcome to my GitHub profile</h1> 
 <p align="center">   <a href="https://github.com/keralahacker"><img src="https://github-readme-stats.vercel.app/api?username=Keralahacker&hide_border=true&show_icons=true" alt="keralahacker 's github stats"></a>
 </p> 
 <p align="center">   <strong><a href="https://keralahacker.github.io/">Official Website</a></strong> |
 </p> 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p> 
+<p align="center">❤ I'm currently [will be updated]</p> 
 
 # Languages & Tools 👨‍💻 🛠:
 </br> 
