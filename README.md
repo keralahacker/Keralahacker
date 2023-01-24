@@ -43,5 +43,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![https __www youtube com_c_hackwithvyshu](https://user-images.githubusercontent.com/64751167/152506874-93bd805a-8d8a-4a0f-9caf-8d9da84bdf81.png)
-
-https://drive.google.com/file/d/1Li6IMYDJ4gv7z8bQ00xR9njwOk7XzlSs/view?usp=sharing
